@@ -1,0 +1,4 @@
+com\weller\utils\AliyunOSSOperator.class
+com\weller\utils\CurrentHolder.class
+com\weller\utils\JwtUtils.class
+com\weller\utils\AliyunOSSProperties.class
