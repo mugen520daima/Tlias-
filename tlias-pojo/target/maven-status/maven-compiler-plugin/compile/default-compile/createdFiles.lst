@@ -1,0 +1,17 @@
+com\weller\pojo\Clazz.class
+com\weller\pojo\Student.class
+com\weller\pojo\ClazzQueryParam.class
+com\weller\pojo\Emp.class
+com\weller\pojo\JobOption.class
+com\weller\pojo\StudentDegreeData.class
+com\weller\pojo\LoginInfo.class
+com\weller\pojo\StudentQueryParam.class
+com\weller\pojo\OperateLog.class
+com\weller\pojo\ClazzQuery.class
+com\weller\pojo\ClazzCountOption.class
+com\weller\pojo\EmpQueryParam.class
+com\weller\pojo\EmpExpr.class
+com\weller\pojo\Result.class
+com\weller\pojo\EmpLog.class
+com\weller\pojo\PageResult.class
+com\weller\pojo\Dept.class
